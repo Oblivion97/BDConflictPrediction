@@ -1,0 +1,2 @@
+if necessary to genarate pdf to image use this website: https://hnet.com/pdf-to-png/
+upload pdf,set DPI: 600, then press convert
